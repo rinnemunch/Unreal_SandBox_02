@@ -29,7 +29,7 @@ It blends **AI behavior** and **character design** to build a companion that not
 
 ## 🖼️ Preview
 
-![AI Companion Preview](Media/AICompanion.gif)
+![AI Companion Preview](Media/AiCompanion.gif)
 
 ---
 
