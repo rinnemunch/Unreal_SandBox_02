@@ -43,3 +43,28 @@ It blends **AI behavior** and **character design** to build a companion that not
 - Modular structure — extendable for **pets**, **followers**, or **story-driven NPCs**
 
 ---
+
+# 🥊 Project 3 – Melee Attack Animation Integration
+
+This project shows how to **retarget and trigger melee attack animations** for Unreal Engine 5.5.4’s default Third-Person Character using the **IK Retargeter** and **Blueprint input logic**.
+
+It’s the foundation for a full melee combat system — clean, responsive, and ready to expand into combos, hit detection, and impact feedback.
+
+---
+
+## 🖼️ Preview
+
+![Melee Attack Preview](Media/Melee.gif)
+
+---
+
+## 🧱 Features
+
+- **RamsterZ Free Anims Volume 1** imported and prepped for retargeting
+- **IK Retargeter** setup for converting external animation to SKM_Manny
+- **Root Motion** enabled for realistic movement synchronization
+- **Attack_Montage** created for Blueprint-triggered playback
+- **Left Mouse Input** logic added to play montage with `isAttacking` lock
+- Expandable base — ready for **combo chains**, **hit reactions**, and **timing windows**
+
+---
