@@ -68,3 +68,26 @@ It’s the foundation for a full melee combat system — clean, responsive, and 
 - Expandable base — ready for **combo chains**, **hit reactions**, and **timing windows**
 
 ---
+
+# 🎬 Project 4 – Cinematic Camera Fade-In on Begin Play
+
+This project demonstrates how to create a **cinematic camera fade-in effect** in **Unreal Engine 5.5.4** using Blueprints.
+It delivers a smooth visual transition from black to your scene at game start — a small, professional touch that sets the tone and boosts immersion instantly.
+
+---
+
+## 🖼️ Preview
+
+![Camera Fade Preview](Media/CameraFade.gif)
+
+---
+
+## 🧱 Features
+
+- **BP_ThirdPersonCharacter** fade logic triggered on **Begin Play**
+- Uses **Get Player Camera Manager** and **Start Camera Fade** nodes
+- **From Alpha 1.0 → To Alpha 0.0** for full black-to-scene transition
+- Adjustable **Fade Duration** for pacing control (e.g., 5 seconds for cinematic feel)
+- Customizable **Fade Color** for tone or narrative mood
+
+---
