@@ -91,3 +91,44 @@ It delivers a smooth visual transition from black to your scene at game start �
 - Customizable **Fade Color** for tone or narrative mood
 
 ---
+
+# 💥 Project 5 – Precise Melee Hits: Knockouts & Hit Detection
+
+This project expands the **melee combat system** with **precise, reactive hit detection** and **ragdoll knockouts**, all built in **Unreal Engine 5.5.4** using Blueprints only.
+It builds directly on the _Wandering AI_ and _Melee Combat_ setups — turning every swing into a physical, cinematic impact that connects cleanly with NPCs.
+
+---
+
+## 🖼️ Preview
+
+![Melee Knockout Preview](Media/MeleeKnockout.gif)
+
+---
+
+## 🧱 Features
+
+- **ANS_Hit** custom notify state defining the active hit window in the attack montage
+- **Real-time hit detection** using `Sphere Trace for Objects` linked to animation notifies
+- **BP_ThirdPersonCharacter** `HitDetection` function handling trace and NPC detection
+- **BP_NPC** ragdoll response triggered instantly on successful hit
+- **Add Impulse** physics push for knockout realism and visual impact
+- Seamless integration with existing **AI wandering** and **melee attack** systems
+
+---
+
+## ⚙️ Technical Breakdown
+
+- **Notify State Timing:** Active window covers attack swing (e.g., frame 10–53)
+- **Trace Filtering:** Detects only `Pawn` object types for performance and precision
+- **Hit Response:** Casts to `BP_NPC` and triggers `ActivateRagdoll()`
+- **Physics Simulation:** Mesh simulation + directional impulse for knockout motion
+- **Radius Control:** Adjustable trace radius (default: `50`) for close-range accuracy
+
+---
+
+## 🚀 Result
+
+When you attack a wandering NPC, your melee swing now delivers a **real, timed impact**.
+Each successful hit instantly drops the target into ragdoll with a subtle forward impulse — producing clean, satisfying knockouts that look and feel physically grounded.
+
+---
