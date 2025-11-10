@@ -132,3 +132,44 @@ When you attack a wandering NPC, your melee swing now delivers a **real, timed i
 Each successful hit instantly drops the target into ragdoll with a subtle forward impulse — producing clean, satisfying knockouts that look and feel physically grounded.
 
 ---
+
+# 🌀 Project 6 – Double Jump Flip System
+
+This project shows how to create a **stylish mid-air flip animation** that triggers automatically on your **second jump** in **Unreal Engine 5.5.4**.
+It combines jump logic and animation control to deliver a clean, acrobatic backflip that feels fluid, responsive, and cinematic — ideal for parkour or action-focused characters.
+
+---
+
+## 🖼️ Preview
+
+![Double Jump Flip Preview](Media/DoubleJumpFlip.gif)
+
+---
+
+## 🧱 Features
+
+- **BP_ThirdPersonCharacter** modified for double jump support
+- **Switch on Int** logic to trigger unique animation on the second jump
+- **HalfBackflip_Montage** animation plays only mid-air
+- **Rate Scale** and **End Time** tuned for smooth cinematic timing
+- Fully Blueprint-based — no C++ required
+- Modular design ready for **aerial combos**, **parkour systems**, or **character flair moves**
+
+---
+
+## ⚙️ Technical Breakdown
+
+- **Jump Max Count:** Set to `2` for double jump capability
+- **Get Jump Current Count:** Feeds into **Switch on Int** for jump stage tracking
+- **Second Jump Branch:** Executes `Play Anim Montage` for the flip
+- **Montage Settings:** Rate Scale `0.7`, End Time `0.39` for tighter motion control
+
+---
+
+## 🚀 Result
+
+On the **first jump**, your character performs a normal leap.
+On the **second jump**, they perform a clean **backflip** mid-air — no extra input needed.
+The system feels precise, cinematic, and adds effortless style to your character movement.
+
+---
