@@ -7,7 +7,7 @@ Every project targets a core gameplay or visual mechanic that can scale into ful
 
 ## 🎞️ Project Gallery
 
-![Project Showcase](Media/All.gif)
+![Project Showcase](Media/5.gif)
 
 Explore the projects below 👇
 Each entry includes a **Blueprint workflow**, **GIF preview**, and **feature breakdown** — perfect for learning, prototyping, or integrating directly into your own UE projects.
