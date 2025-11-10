@@ -7,7 +7,7 @@ Every project targets a core gameplay or visual mechanic that can scale into ful
 
 ## 🎞️ Project Gallery
 
-![Project Showcase](Media/AllProjects.gif)
+![Project Showcase](Media/All.gif)
 
 Explore the projects below 👇
 Each entry includes a **Blueprint workflow**, **GIF preview**, and **feature breakdown** — perfect for learning, prototyping, or integrating directly into your own UE projects.
@@ -185,5 +185,3 @@ It combines jump logic and animation control to deliver a clean, acrobatic backf
 On the **first jump**, your character performs a normal leap.
 On the **second jump**, they perform a clean **backflip** mid-air — no extra input needed.
 The system feels precise, cinematic, and adds effortless style to your character movement.
-
----
