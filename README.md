@@ -12,7 +12,8 @@ Every project targets a core gameplay or visual mechanic that can scale into ful
 Explore the projects below 👇
 Each entry includes a **Blueprint workflow**, **GIF preview**, and **feature breakdown** — perfect for learning, prototyping, or integrating directly into your own UE projects.
 
-# 💬 Project 1 – On-Screen HUD Tips
+# 💬 Project 1 – On-Screen HUD Tips 
+**[Medium Guide](https://medium.com/@fulton_shaun/simple-on-screen-tips-in-unreal-engine-5-hud-blueprint-guide-143cbee8de5a)** • **[YouTube Tutorial](https://www.youtube.com/watch?v=5d5ooaYtvgY)**
 
 This project demonstrates how to create **automatic on-screen HUD tips** in **Unreal Engine 5.5.4** using Blueprints.
 It’s a lightweight, polished system that displays short text prompts when players enter trigger zones — perfect for tutorials, hints, or in-world storytelling.
