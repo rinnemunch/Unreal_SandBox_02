@@ -35,7 +35,8 @@ It’s a lightweight, polished system that displays short text prompts when play
 - **Automatic widget creation and removal** during gameplay
 - Modular setup — easy to expand for **quest markers**, **tutorials**, or **interactive world prompts**
 
-# 🤖 Project 2 – Following AI Companion
+# 🤖 Project 2 – Following AI Companion 
+**[Medium Guide](https://medium.com/@fulton_shaun/creating-a-following-ai-companion-that-moves-and-looks-uniquely-yours-in-unreal-engine-5-cb4dc95dc153)** • **[YouTube Tutorial](https://www.youtube.com/watch?v=rLunpQwRFXY)**
 
 This project demonstrates how to create a **custom AI companion** in **Unreal Engine 5.5.4** using Blueprints.
 It blends **AI behavior** and **character design** to build a companion that not only follows the player but also moves and looks uniquely yours — adding personality, rhythm, and presence to the game world.
@@ -59,7 +60,8 @@ It blends **AI behavior** and **character design** to build a companion that not
 
 ---
 
-# 🥊 Project 3 – Melee Attack Animation Integration
+# 🥊 Project 3 – Melee Attack Animation Integration 
+**[Medium Guide](https://medium.com/@fulton_shaun/how-to-add-melee-attack-animations-to-the-default-third-person-character-step-by-step-8ac3d8e43ef3)** • **[YouTube Tutorial](https://www.youtube.com/watch?v=3YcD_z5Yano)**
 
 This project shows how to **retarget and trigger melee attack animations** for Unreal Engine 5.5.4’s default Third-Person Character using the **IK Retargeter** and **Blueprint input logic**.
 
@@ -84,7 +86,8 @@ It’s the foundation for a full melee combat system — clean, responsive, and 
 
 ---
 
-# 🎬 Project 4 – Cinematic Camera Fade-In on Begin Play
+# 🎬 Project 4 – Cinematic Camera Fade-In on Begin Play 
+**[Medium Guide](https://medium.com/@fulton_shaun/create-a-cinematic-camera-fade-in-on-begin-play-in-unreal-engine-5-abd533e04801)** • **[YouTube Tutorial](https://www.youtube.com/watch?v=nxu_ucLnXHk)**
 
 This project demonstrates how to create a **cinematic camera fade-in effect** in **Unreal Engine 5.5.4** using Blueprints.
 It delivers a smooth visual transition from black to your scene at game start — a small, professional touch that sets the tone and boosts immersion instantly.
