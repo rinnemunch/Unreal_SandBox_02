@@ -110,7 +110,8 @@ It delivers a smooth visual transition from black to your scene at game start �
 
 ---
 
-# 💥 Project 5 – Precise Melee Hits: Knockouts & Hit Detection
+# 💥 Project 5 – Precise Melee Hits: Knockouts & Hit Detection 
+**[Medium Guide](https://medium.com/@fulton_shaun/precise-melee-hits-knockouts-hit-detection-in-ue5-blueprints-11da5b2a5541)** • **[YouTube Tutorial](https://www.youtube.com/watch?v=dAN5dS0CLCE)**
 
 This project expands the **melee combat system** with **precise, reactive hit detection** and **ragdoll knockouts**, all built in **Unreal Engine 5.5.4** using Blueprints only.
 It builds directly on the _Wandering AI_ and _Melee Combat_ setups — turning every swing into a physical, cinematic impact that connects cleanly with NPCs.
@@ -151,7 +152,8 @@ Each successful hit instantly drops the target into ragdoll with a subtle forwar
 
 ---
 
-# 🌀 Project 6 – Double Jump Flip System
+# 🌀 Project 6 – Double Jump Flip System 
+**[Medium Guide](https://medium.com/@fulton_shaun/double-jump-flip-system-in-unreal-engine-5-286e206ad468)** • **[YouTube Tutorial](https://www.youtube.com/watch?v=TmC0UcLAgAA)**
 
 This project shows how to create a **stylish mid-air flip animation** that triggers automatically on your **second jump** in **Unreal Engine 5.5.4**.
 It combines jump logic and animation control to deliver a clean, acrobatic backflip that feels fluid, responsive, and cinematic — ideal for parkour or action-focused characters.
